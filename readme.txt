@@ -28,4 +28,5 @@ Credits:
 
 License:
 -----------------------
-This template is under Free License - https://www.themesine.com/license/
+This template is under Free License - https://www.sahil.com/license/
+
